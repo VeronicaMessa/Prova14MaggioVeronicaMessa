@@ -1,0 +1,16 @@
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.exe
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.deps.json
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.runtimeconfig.json
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.runtimeconfig.dev.json
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.dll
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\ref\Prova14MaggioVeronicaMessa.dll
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\bin\Debug\net5.0\Prova14MaggioVeronicaMessa.pdb
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.csprojAssemblyReference.cache
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.AssemblyInfoInputs.cache
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.AssemblyInfo.cs
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.csproj.CoreCompileInputs.cache
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.dll
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\ref\Prova14MaggioVeronicaMessa.dll
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.pdb
+C:\Users\veronica.messa\Desktop\Academy\Prova14MaggioVeronicaMessa\Prova14MaggioVeronicaMessa\obj\Debug\net5.0\Prova14MaggioVeronicaMessa.genruntimeconfig.cache
